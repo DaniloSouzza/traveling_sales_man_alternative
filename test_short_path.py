@@ -1,4 +1,7 @@
+#! usr/bin/python3
+
 """ TestCase for class ShortDistance """
+
 import unittest
 import shortest_path
 
